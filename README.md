@@ -9,3 +9,10 @@ Rovim is made to be used with other tools like:
 <b>NO</b> Rovim is not a fork of Neovim.
 
 ## Installation (W.I.P)
+
+## Q & A
+Is Rovim a fork of Neovim? <b>NO</b> Rovim is not a fork of Neovim. It simply takes inspiration.
+<details>
+  <summary>Is Rovim a fork of Neovim?</summary>
+  <b>NO</b> Rovim is not a fork of Neovim. It simply takes inspiration.
+</details>
